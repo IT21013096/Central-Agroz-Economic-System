@@ -14,13 +14,13 @@ const Footer = () => {
                 <h3>Services</h3>
                 <ul>
                   <li>
-                    <Link>Order tracking</Link>
+                    <Link to="/system/farmer/login">Farmer Login</Link>
                   </li>
                   <li>
                     <Link>Wish List</Link>
                   </li>
                   <li>
-                    <Link to="/system/auth">System Login</Link>
+                    <Link to="/admin/login">System Login</Link>
                   </li>
                 </ul>
               </div>
